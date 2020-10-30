@@ -1,3 +1,4 @@
+def alphapat(n):
 num = 65
 
 	for i in range(0, n): 
